@@ -1,6 +1,15 @@
 div.art{
-    background-color: aquamarine;
+    background-color: red;
     border: 1px solid black;
 margin: 20px 30px;
+
+}
+body{
+
+
+    background-image: url(../images/bg3.jpg);
+    color: green;
+    font-size: 150%;
+
 
 }
